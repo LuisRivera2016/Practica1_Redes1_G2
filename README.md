@@ -2,7 +2,7 @@
 |Grupo 2| Carnet | Nombre |
 | --- | --- | --- |
 | Coordinador |  | |
-| Compañero 2 |  |  |
+| Compañero 2 | 201602880  | Bryan Alexander Portillo Alvarado  |
 | Compañero 3 |  | |
 | Compañero 4 | 201403793 | Kevin Nicolas Garcia Martinez |
 
@@ -23,14 +23,14 @@ Cada integrante del grupo configuro 3 clouds en las cuales se ingresaron puertos
 
 ### Compañero 2
 - Coordinador
-
-
+![config_vpc2](./src/img/cloud_coordinador_201602880.jpeg)
 
 - Compañero 3
-
+![config_vpc2](./src/img/cloud_walter_201602880.jpeg)
 
 
 - Compañero 4
+![config_vpc2](./src/img/cloud_kevin_201602880.jpeg)
 
 
 
@@ -69,9 +69,11 @@ Cada integrante conto con una VPC la cual se iniciaba y se entraba a su consola,
 
 ### Compañero 2
 
-- VPC
+- mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace mostrados en la siguiente figura
+![config_vpc2](./src/img/config_201602880.jpg)
 
-- Ping
+- correspondiente con la ip asignada 192.168.12.20 se procedio a realizar mediante el comando ping hacia los otros hosts, para verificar conexion entre ellos, como se muestra en la figura
+![ping_compa2](./src/img/ping_201602880.jpeg)
 
 ### Compañero 3
 

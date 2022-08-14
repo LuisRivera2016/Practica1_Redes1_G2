@@ -65,23 +65,23 @@ Cada integrante conto con una VPC la cual se iniciaba y se entraba a su consola,
 
 - VPC
 
--Ping
+- Ping
 
 ### Compañero 2
 
 - VPC
 
--Ping
+- Ping
 
 ### Compañero 3
 
 - VPC
 
--Ping
+- Ping
 
 
 ### Compañero 4
 
 - VPC
 
--Ping
+- Ping

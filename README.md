@@ -36,27 +36,34 @@ Cada integrante del grupo configuro 3 clouds en las cuales se ingresaron puertos
 
 ### Compañero 3
 - Coordinador
+
 ![config_vpc3](./src/img/cloud_luis_201709073.jpeg)
 
 
 - Compañero 2
+
 ![config_vpc3](./src/img/cloud_bryan_201709073.jpeg)
 
 
 - Compañero 4
+
 ![config_vpc3](./src/img/cloud_kevin_201709073.jpeg)
 
 
 ### Compañero 4
 - Coordinador
 
+![](./src/img/c4_coordinador_cloud.png)
 
 
 - Compañero 2
 
+![](./src/img/c4_brayan_cloud.png)
+
 
 - Compañero 3
 
+![](./src/img/c4_alexcloud.png)
 
 
 ## Configuracion de las VPCs y Ping entre los hosts
@@ -69,22 +76,40 @@ Cada integrante conto con una VPC la cual se iniciaba y se entraba a su consola,
 
 ### Compañero 2
 
-- mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace mostrados en la siguiente figura
+- VPC
+
+Mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace: 192.168.12.20 255.255.255.0 192.168.12.1  
 ![config_vpc2](./src/img/config_201602880.jpg)
 
-- correspondiente con la ip asignada 192.168.12.20 se procedio a realizar mediante el comando ping hacia los otros hosts, para verificar conexion entre ellos, como se muestra en la figura
+- PING
+
+Mediante el comando ping hacia los otros hosts, para verificar conexion entre ellos, como se muestra en la figura
 ![ping_compa2](./src/img/ping_201602880.jpeg)
 
 ### Compañero 3
 
-- Configuracion VPC:  ip: 192.168.12.30, mascara: 255.255.255.0 y gateway 192.168.12.1  
+- VPC 
+
+Mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace: 192.168.12.30 255.255.255.0 192.168.12.1  
 ![config_vpc3](./src/img/config_201709073.jpeg)
 
-- Ping a: Coordinador, Compañero 3 y Compañero 4
+- PING
+
+Mediante el comando ping hacia los otros hosts, para verificar conexion entre ellos, como se muestra en la figura
 ![ping_vpc3](./src/img/ping_201709073.jpeg)
 
 ### Compañero 4
 
 - VPC
 
-- Ping
+Mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace: 192.168.12.40 255.255.255.0 192.168.12.1  
+![config_vpc2](./src/img/c4_vpc.png)
+
+
+- PING
+
+![config_vpc2](./src/img/c4_ping1.png)
+
+![config_vpc2](./src/img/c4_ping2.png)
+
+![config_vpc2](./src/img/c4_ping3.png)

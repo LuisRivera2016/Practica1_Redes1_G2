@@ -15,11 +15,11 @@ Cada integrante del grupo configuro 3 clouds en las cuales se ingresaron puertos
 
 - Compañero 3
 
-
+  ![config_vpc2](./src/img/LUISWALTER.jpg)
 
 - Compañero 4
 
-
+![config_vpc2](./src/img/LUISKEVIN.jpg)
 
 ### Compañero 2
 - Coordinador
@@ -64,14 +64,18 @@ Cada integrante conto con una VPC la cual se iniciaba y se entraba a su consola,
 ### Coordinador
 
 - VPC
+ ![config_vpc2](./src/img/vpc.jpg)
 
 - Ping
+ ![config_vpc2](./src/img/pingluis.jpg)
 
 ### Compañero 2
 
+-VPC
 - mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace mostrados en la siguiente figura
 ![config_vpc2](./src/img/config_201602880.jpg)
 
+-Ping
 - correspondiente con la ip asignada 192.168.12.20 se procedio a realizar mediante el comando ping hacia los otros hosts, para verificar conexion entre ellos, como se muestra en la figura
 ![ping_compa2](./src/img/ping_201602880.jpeg)
 

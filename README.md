@@ -19,7 +19,7 @@ Cada integrante del grupo configuro 3 clouds en las cuales se ingresaron puertos
 
 - Compañero 4
 
-![config_vpc2](./src/img/LUISKEVIN.jpg)
+  ![config_vpc2](./src/img/LUISKEVIN.jpg)
 
 ### Compañero 2
 - Coordinador

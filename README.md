@@ -2,8 +2,8 @@
 |Grupo 2| Carnet | Nombre |
 | --- | --- | --- |
 | Coordinador |  | |
-| Compañero 2 | 201602880  | Bryan Alexander Portillo Alvarado  |
-| Compañero 3 |  | |
+| Compañero 2 | 201602880 | Bryan Alexander Portillo Alvarado  |
+| Compañero 3 | 201709073 | Walter Alexander Guerra Duque |
 | Compañero 4 | 201403793 | Kevin Nicolas Garcia Martinez |
 
 ## Configuracion de las nubes
@@ -36,15 +36,15 @@ Cada integrante del grupo configuro 3 clouds en las cuales se ingresaron puertos
 
 ### Compañero 3
 - Coordinador
-
+![config_vpc3](./src/img/cloud_luis_201709073.jpeg)
 
 
 - Compañero 2
-
+![config_vpc3](./src/img/cloud_bryan_201709073.jpeg)
 
 
 - Compañero 4
-
+![config_vpc3](./src/img/cloud_kevin_201709073.jpeg)
 
 
 ### Compañero 4
@@ -78,9 +78,10 @@ Cada integrante conto con una VPC la cual se iniciaba y se entraba a su consola,
 ### Compañero 3
 
 - VPC
+![config_vpc3](./src/img/config_201709073.jpeg)
 
 - Ping
-
+![ping_vpc3](./src/img/ping_201709073.jpeg)
 
 ### Compañero 4
 

@@ -72,7 +72,13 @@ Cada integrante conto con una VPC la cual se iniciaba y se entraba a su consola,
 
 - VPC
 
-- Ping
+Mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace: 192.168.12.10 255.255.255.0 192.168.12.1  
+
+
+- PING
+
+Mediante el comando ping hacia los otros hosts, para verificar conexion entre ellos, como se muestra en la figura
+
 
 ### Compañero 2
 

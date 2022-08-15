@@ -77,10 +77,10 @@ Cada integrante conto con una VPC la cual se iniciaba y se entraba a su consola,
 
 ### Compañero 3
 
-- VPC
+- Configuracion VPC:  ip: 192.168.12.30, mascara: 255.255.255.0 y gateway 192.168.12.1  
 ![config_vpc3](./src/img/config_201709073.jpeg)
 
-- Ping
+- Ping a: Coordinador, Compañero 3 y Compañero 4
 ![ping_vpc3](./src/img/ping_201709073.jpeg)
 
 ### Compañero 4

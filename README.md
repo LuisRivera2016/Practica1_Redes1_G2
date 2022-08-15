@@ -1,7 +1,7 @@
 # Redes 1: Practica 1 
 |Grupo 2| Carnet | Nombre |
 | --- | --- | --- |
-| Coordinador |  | |
+| Coordinador | 201602813 | Luis Enrique Rivera Najera |
 | Compañero 2 | 201602880  | Bryan Alexander Portillo Alvarado  |
 | Compañero 3 |  | |
 | Compañero 4 | 201403793 | Kevin Nicolas Garcia Martinez |
@@ -11,7 +11,7 @@ Cada integrante del grupo configuro 3 clouds en las cuales se ingresaron puertos
 ### Coordinador
 - Compañero 2
 
-
+LUIS_BRAYAN.jpg
 
 - Compañero 3
 

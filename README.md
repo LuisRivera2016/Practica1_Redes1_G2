@@ -3,7 +3,7 @@
 | --- | --- | --- |
 | Coordinador | 201602813 | Luis Enrique Rivera Najera |
 | Compañero 2 | 201602880  | Bryan Alexander Portillo Alvarado  |
-| Compañero 3 |  | |
+| Compañero 3 | 201709073 | Walter Alexander Guerra Duque |
 | Compañero 4 | 201403793 | Kevin Nicolas Garcia Martinez |
 
 ## Configuracion de las nubes

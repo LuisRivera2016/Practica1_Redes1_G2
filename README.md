@@ -1,8 +1,8 @@
 # Redes 1: Practica 1 
 |Grupo 2| Carnet | Nombre |
 | --- | --- | --- |
-| Coordinador |  | |
-| Compañero 2 | 201602880 | Bryan Alexander Portillo Alvarado  |
+| Coordinador | 201602813 | Luis Enrique Rivera Najera |
+| Compañero 2 | 201602880  | Bryan Alexander Portillo Alvarado  |
 | Compañero 3 | 201709073 | Walter Alexander Guerra Duque |
 | Compañero 4 | 201403793 | Kevin Nicolas Garcia Martinez |
 
@@ -11,15 +11,15 @@ Cada integrante del grupo configuro 3 clouds en las cuales se ingresaron puertos
 ### Coordinador
 - Compañero 2
 
-
+  ![config_vpc2](./src/img/LUIS_BRAYAN.jpg)
 
 - Compañero 3
 
-
+  ![config_vpc2](./src/img/LUISWALTER.jpg)
 
 - Compañero 4
 
-
+  ![config_vpc2](./src/img/LUISKEVIN.jpg)
 
 ### Compañero 2
 - Coordinador
@@ -71,25 +71,19 @@ Cada integrante conto con una VPC la cual se iniciaba y se entraba a su consola,
 ### Coordinador
 
 - VPC
+ ![config_vpc2](./src/img/vpc.jpg)
 
-Mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace: 192.168.12.10 255.255.255.0 192.168.12.1  
-
-
-- PING
-
-Mediante el comando ping hacia los otros hosts, para verificar conexion entre ellos, como se muestra en la figura
-
+- Ping
+ ![config_vpc2](./src/img/pingluis.jpg)
 
 ### Compañero 2
 
 - VPC
-
-Mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace: 192.168.12.20 255.255.255.0 192.168.12.1  
+- mediante el comando ip se asigno la direccion, mascara de subred y puerta de enlace mostrados en la siguiente figura
 ![config_vpc2](./src/img/config_201602880.jpg)
 
-- PING
-
-Mediante el comando ping hacia los otros hosts, para verificar conexion entre ellos, como se muestra en la figura
+- Ping
+- correspondiente con la ip asignada 192.168.12.20 se procedio a realizar mediante el comando ping hacia los otros hosts, para verificar conexion entre ellos, como se muestra en la figura
 ![ping_compa2](./src/img/ping_201602880.jpeg)
 
 ### Compañero 3
